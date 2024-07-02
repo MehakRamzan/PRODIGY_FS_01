@@ -17,7 +17,7 @@ Setup and Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/user-authentication-system.git
+git clone https://github.com/MehakRamzan/PRODIGY_FS_01.git
 cd user-authentication-system
 Install dependencies:
 bash
@@ -50,4 +50,3 @@ Through this project, valuable insights were gained into backend and frontend de
 Contribution
 Feel free to contribute to this project by submitting issues or pull requests. Your contributions are welcome!
 
-License
